@@ -8,5 +8,5 @@ If the collected data from a specific source is not well formatted or organized 
 
 In this step, we retrieve data from a data source. For this example, we are using text files as our data source.
 
-DATA SOURCE: [data_source]() this is our data source
-DATA COLLECTOR CODE: [data_collector.py](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.py) and [setp_1/data_collector.go](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.go) this is our code to collect data from data source.
+**DATA SOURCE:** [data_source](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_source.txt)  
+**DATA COLLECTOR CODE:** [data_collector.py](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.py) and [data_collector.go](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.go)
