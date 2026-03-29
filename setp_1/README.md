@@ -6,7 +6,7 @@ Data collection means gathering data from a specific source, such as a text file
 
 If the collected data from a specific source is not well formatted or organized for AI to understand, it must be cleaned and formatted first. Poor preprocessing is a common cause of poor RAG performance.
 
-In this step, we retrieve data from a data source. For this example, we are using text files as our data source.
+In this step, data is retrieved from a data source. For simplicity, this example uses a text file as the data source.
 
 **DATA SOURCE:** [data_source](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_source.txt)  
 **DATA COLLECTOR CODE:** [data_collector.py](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.py) and [data_collector.go](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.go)
