@@ -69,7 +69,7 @@ Instead of relying only on its training data, the model first retrieves relevant
 
 Retrieval-Augmented Generation (RAG) system works in mainly eight steps:
 
-1. [Data Collection](https://github.com/cyberytti/Rag-from-scratch/tree/main/setp_1)
+1. **[Data Collection:](https://github.com/cyberytti/Rag-from-scratch/tree/main/setp_1)**
    Gather data from various sources such as documents, PDFs, databases, or websites.
 
 2. Data Chunking  
