@@ -1,9 +1,13 @@
-package main
+package step_1
 
 import (
-	"fmt"
+	"os"
 )
 
-func main() {
-	fmt.Println(string("hello World"))
+func collect_data() ([]byte, error) {
+	b, err := os.ReadFile("step_1/data_source.txt")
+	if err != nil {
+		return nil, err
+	}
+	return b, nil
 }

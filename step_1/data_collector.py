@@ -21,5 +21,3 @@ def collect_data():
 
 
 
-
-print (collect_data())
