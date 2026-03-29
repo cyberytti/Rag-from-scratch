@@ -1,3 +1,5 @@
+# Retrieval-Augmented Generation (RAG) from scratch
+
 We have all used tools like ChatGPT, Claude, Perplexity, and Gemini. Even if we haven’t used them, we have at least heard about them. 
 
 We often call them AI (Artificial Intelligence), but they are actually LLMs (Large Language Models).
