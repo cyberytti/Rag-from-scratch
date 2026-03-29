@@ -1,0 +1,12 @@
+# Data Collection (Step 1)
+
+RAG systems can process various data sources such as PDFs, Markdown files, text files, Word documents, HTML pages, etc.
+
+Data collection means gathering data from a specific source, such as a text file or a PDF file. This includes extracting content like text or images from those files and storing it in a place (such as a variable or a database) where it can be accessed programmatically.
+
+If the collected data from a specific source is not well formatted or organized for AI to understand, it must be cleaned and formatted first. Poor preprocessing is a common cause of poor RAG performance.
+
+In this step, we retrieve data from a data source. For this example, we are using text files as our data source.
+
+DATA SOURCE: [data_source]() this is our data source
+DATA COLLECTOR CODE: [data_collector.py](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.py) and [setp_1/data_collector.go](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.go) this is our code to collect data from data source.
