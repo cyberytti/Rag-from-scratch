@@ -68,6 +68,8 @@ Instead of relying only on its training data, the model first retrieves relevant
 ## Retrieval-Augmented Generation (RAG) System Workflow
 
 ![Simple RAG pipeline](https://i.ibb.co/HfnnNYk0/Gemini-Generated-Image-adnwa4adnwa4adnw.png)
+
+
 Retrieval-Augmented Generation (RAG) system works in mainly eight steps:
 
 1. **[Data Collection:](https://github.com/cyberytti/Rag-from-scratch/tree/main/setp_1)**
