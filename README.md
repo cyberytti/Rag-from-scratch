@@ -52,7 +52,7 @@ For example, if you want to build an AI system for a telecom company, it should 
 
 To solve all of these problems, a technique called **Retrieval-Augmented Generation (RAG)** is used.
 
-RAG was introduced by researchers at Meta (Facebook AI) in 2020 in the paper *“Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.
+RAG was introduced by researchers at Meta (Facebook AI) in 2020 in the paper Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.
 
 📄 Official research paper:
 [https://arxiv.org/pdf/2005.11401](https://arxiv.org/pdf/2005.11401)
