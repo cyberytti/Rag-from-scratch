@@ -8,6 +8,7 @@ def collect_data():
             # This is the "collected data" that will later be processed for RAG
             collected_data = file.read()
 
+            # returning data collected data
             return collected_data
 
     # If any error occurs (e.g., file not found, wrong path, permission issue)
