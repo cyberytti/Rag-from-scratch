@@ -10,3 +10,4 @@ In this step, data is retrieved from a data source. For simplicity, this example
 
 **DATA SOURCE:** [data_source](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_source.txt)  
 **DATA COLLECTOR CODE:** [data_collector.py](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.py) and [data_collector.go](https://github.com/cyberytti/Rag-from-scratch/blob/main/setp_1/data_collector.go)
+**DATA:** We are using "The Adventures of Sherlock Holmes" by Arthur Conan Doyle as our data.
