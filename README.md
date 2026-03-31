@@ -75,7 +75,7 @@ Retrieval-Augmented Generation (RAG) system works in mainly eight steps:
 1. **[Data Collection:](https://github.com/cyberytti/Rag-from-scratch/tree/main/step_1)**
    Gather data from various sources such as documents, PDFs, databases, or websites.
 
-2. Data Chunking  
+2. **[Data Chunking](https://github.com/cyberytti/Rag-from-scratch/tree/main/step_2)**  
    Break the collected data into smaller chunks to avoid context limit problem.
 
 3. Embedding Generation  
