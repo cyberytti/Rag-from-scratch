@@ -2,7 +2,7 @@ def collect_data():
     try:
         # Open the data source file in read mode ("r")
         # This file acts as our raw knowledge base (Sherlock Holmes text)
-        with open("setp_1/data_source.txt", "r") as file:
+        with open("step_1/data_source.txt", "r") as file:
             
             # Read the entire content of the file and store it in a variable
             # This is the "collected data" that will later be processed for RAG
