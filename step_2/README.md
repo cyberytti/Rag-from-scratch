@@ -166,5 +166,6 @@ Multi-topic or complex documents where clear separation of ideas improves search
 ## 5. Conclusion
 
 Selecting the appropriate chunking strategy depends on the specific requirements of the system, the nature of the data, and the available computational resources. While classic methods like Fixed-Size and Recursive chunking offer efficiency and simplicity, advanced strategies such as Late, Agentic, and Max–Min Semantic chunking provide superior context preservation and retrieval quality for complex applications.
-How ever depending on our data we can create custom chunking solution as well.For this example we have created our own custom chunking method.
-You can find our custom chunker here [chunker.py](https://github.com/cyberytti/Rag-from-scratch/blob/main/step_2/chunker.py)
+However, depending on the nature of the data, we can also design custom chunking solutions. For this example, we have implemented our own custom chunking method.
+
+You can find the implementation here: [chunker.py](https://github.com/cyberytti/Rag-from-scratch/blob/main/step_2/chunker.py)
