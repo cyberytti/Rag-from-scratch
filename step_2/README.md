@@ -1,4 +1,4 @@
-## 1. Introduction to Chunking
+## 1. Introduction to Chunking (step 2)
 
 **Chunking** is the computational process of dividing large datasets into smaller, manageable segments. This procedure is essential for overcoming context window limitations in language models and optimizing data processing, storage, and retrieval.
 
